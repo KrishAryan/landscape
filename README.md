@@ -2,7 +2,12 @@
 
 # Cloud Native Landscape
 
-![Cloud Native Landscape Logo](https://raw.githubusercontent.com/cncf/artwork/master/other/cncf-landscape/horizontal/color/cncf-landscape-horizontal-color.png)
+![Cloud Native Landscape Logo]()
+<a href="https://github.com/cncf/landscape"><picture >
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/layer5io/layer5/master/src/assets/images/meshery/full-logo/meshery-logo-tag-light-white-text-side.png" >
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cncf/artwork/master/other/cncf-landscape/horizontal/color/cncf-landscape-horizontal-color.png" >
+  <img alt="Shows an illustrated light mode cncf landscape logo in light color mode and a dark mode cncf logo dark color mode." src="https://raw.githubusercontent.com/cncf/artwork/master/other/cncf-landscape/horizontal/color/cncf-landscape-horizontal-color.png" >
+</picture></a><br /><br />
 
 - [Cloud Native Landscape](#cloud-native-landscape)
   * [Trail Map](#trail-map)
